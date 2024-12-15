@@ -13,7 +13,7 @@ La transformación digital está transformando drásticamente el modo en que las
 ## Fundamentos teóricos
 La digitalización puede ser categorizada en dos perspectivas fundamentales:  
   
-- **Digitalización en desarrollo**: abarca los procesos de desarrollo de software, que comprenden aspectos de automatización de pruebas, gestión de versiones e implementación continua de software. 
+- **Digitalización en desarrollo: abarca los procesos de desarrollo de software, que comprenden aspectos de automatización de pruebas, gestión de versiones e implementación continua de software. 
 - **Digitalización en el ámbito empresarial**: las funciones administrativas y de back-office incluyen análisis de datos, gestión de relaciones con los clientes (CRM) y mejora de las tácticas de venta.
 
 ---
@@ -35,7 +35,7 @@ Para este proyecto, el sector escogido es la **industria de los videojuegos**, y
 1. Algoritmos de Inteligencia Artificial para la creación de contenido basado en procedimientos (universos, personajes, niveles).  
 2. Instrumentos de aprendizaje automático para perfeccionar las estrategias de juego a partir de información de los participantes.  
   
-**Tecnologías utilizadas en el ámbito empresarial:**  
+Tecnologías utilizadas en el ámbito empresarial:  
 1. Plataformas para el análisis de datos con el objetivo de entender el comportamiento usuario.  
 2. Instrumentos de machine learning para optimizar las dinámicas de juego basándose en los datos de los jugadores.  
   
