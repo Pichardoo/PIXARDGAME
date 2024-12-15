@@ -21,7 +21,7 @@ La digitalización puede ser categorizada en dos perspectivas fundamentales:
 ## Desarrollo del proyecto
 
 ### 1. **Selecciona un sector y una empresa**
-Para este proyecto, el sector escogido es la **industria de los videojuegos**, y la compañía seleccionada es una empresa ficticia: *PixardGame Studios*.  
+Para este proyecto, el sector que he escogido es la **industria de los videojuegos** mi favorita, y la compañía seleccionada es una empresa ficticia: *PixardGame Studios*.  
   
 **Características de las Estudios PixardGame:**  
 - **Tamaño:** Corporación de magnitud media.  
