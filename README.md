@@ -39,7 +39,7 @@ Tecnologías utilizadas en el ámbito empresarial:
 1. Plataformas para el análisis de datos con el objetivo de entender el comportamiento usuario.  
 2. Instrumentos de machine learning para optimizar las dinámicas de juego basándose en los datos de los jugadores.  
   
-**Tecnologías utilizadas en el ámbito empresarial:**  
+Tecnologías utilizadas en el ámbito empresarial:**  
 1. Sistemas de análisis de datos para comprender la conducta de los jugadores.
 2. Tácticas de marketing potenciadas por la inteligencia artificial para una segmentación más efectiva de los clientes.  
 3. Asistentes virtuales inteligentes destinados a proporcionar ayuda técnica.
